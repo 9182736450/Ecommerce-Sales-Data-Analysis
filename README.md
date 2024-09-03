@@ -1,0 +1,1 @@
+I used the Madhav eCommerce sales dataset for data analysis in Microsoft Power BI. I created a dashboard using various data from this dataset. Download the file, open it in Power BI Desktop, and you can view the work.
